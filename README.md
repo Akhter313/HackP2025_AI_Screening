@@ -1,4 +1,4 @@
- HackP 2025 - AI Screening
+ Hac'KP2025_AI
 
  Participant Details
  Name: Kamal Akhter  
